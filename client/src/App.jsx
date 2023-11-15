@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-      <h1>Kinder Garden</h1>
+      <h1>Kinder Garden Dashboard</h1>
     </>
   )
 }
