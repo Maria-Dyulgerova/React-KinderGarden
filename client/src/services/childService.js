@@ -68,7 +68,7 @@ export const getAll = async () => {
     return Object.values(result);
 };
 export const getOne = async (child_id) => {
-    console.log(child_id);
+    // console.log(child_id);
     const result = await request.get(`${baseUrl}/${child_id}`, );
 
     return result;
